@@ -82,6 +82,6 @@ property_owner(owner name),
 }
 ```
 
-```
+### Properties Listing
 
-```
+![image](./imgs/allProperties.png)
